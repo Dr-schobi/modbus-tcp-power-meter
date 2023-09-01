@@ -8,10 +8,14 @@ the power meters are used for wallbox power consumtion.
 
 
 Components
-- SDM630Modbus  V2  Power Meter  https://www.eastroneurope.com/products/view/sdm630modbus
+- multiple SDM630Modbus  V2  Power Meter  https://www.eastroneurope.com/products/view/sdm630modbus
 - USR DR-302  RS485 to Ethernet Adapter  https://www.pusr.com/products/din-rail-rs485-serial-to-ethernet-converter-usr-dr302.html
 - PoE Power Splitter 12V with IEEE802.3af
 - Adapter for barrel jack 5.5 / 2.1mm
+- Wago clamps for splitting the Modbus for each device (3 wires)
+
+![IMG_20230901_153519](https://github.com/Dr-schobi/modbus-tcp-power-meter/assets/78444256/a2b23bfa-fa4b-4b76-abb2-2561af4f6d00)
+
 
 
 ## Configuration
